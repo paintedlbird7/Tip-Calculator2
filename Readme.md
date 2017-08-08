@@ -5,7 +5,7 @@ alculator
 
 Submitted by: **Rosa Perez**
 
-Time spent: **16** hours spent in total
+Time spent: around **25** hours spent in total
 
 ## User Stories
 
