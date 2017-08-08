@@ -38,6 +38,8 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 **Question 1**: "What are your reactions to the iOS app development platform so far? How would you describe outlets and actions to another developer? Bonus: any idea how they are being implemented under the hood? (It might give you some ideas if you right-click on the Storyboard and click Open As->Source Code")
 
+**Answer:** [Enter your answer here in a paragraph or two].
+
 My reactions to the iOS app development platform so far is that it was so easy to use.  I enjoyed working on the app & appreciate the easy to follow video tutorial.  This is my first iOS application.
 
 Outlets - adds a connection from the UI file to a label in the code.  This enables code to send a message to the UI object.
@@ -46,15 +48,16 @@ Actions - example when the user clicks a button, the buttons sends an action mes
 
 
 
-**Answer:** [Enter your answer here in a paragraph or two].
+
 
 Question 2: "Swift uses [Automatic Reference Counting](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/AutomaticReferenceCounting.html#//apple_ref/doc/uid/TP40014097-CH20-ID49) (ARC), which is not a garbage collector, to manage memory. Can you explain how you can get a strong reference cycle for closures? (There's a section explaining this concept in the link, how would you summarize as simply as possible?)"
 
 **Answer:** [Enter your answer here in a paragraph or two].
 
 
+Understanding what a closure may help to prevent memory leaks on your iOS app by avoiding retrain cycles in closures.  Memory leaks can cause the app to crash so it needs to be a strong reference cycle.   
 
-
+  An example of a strong reference cycle for closures is that it's dependent to one another (human & heart) to live.  The heart and human have a strong reference to eachother. 
 
 ## License
 
