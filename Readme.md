@@ -1,7 +1,7 @@
 alculator
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip Calculator iOS app*
 
-**Name of your app** is a tip calculator application for iOS.
+***Tip Calculator or Calculadora de propinas* is a tip calculator application for iOS.
 
 Submitted by: **Rosa Perez**
 
@@ -12,7 +12,7 @@ Time spent: around **25** hours spent in total
 The following **required** functionality is complete:
 
 * [ x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] Settings page to change the default tip percentage.
+* [ x] Settings page to change the default tip percentage.
 
 The following **optional** features are implemented:
 * [ ] UI animations
@@ -38,7 +38,7 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 **Question 1**: "What are your reactions to the iOS app development platform so far? How would you describe outlets and actions to another developer? Bonus: any idea how they are being implemented under the hood? (It might give you some ideas if you right-click on the Storyboard and click Open As->Source Code")
 
-My reactions to the iOS app development platform so far is that it was so easy to use.  I enjoyed working on the app & appreciate the easy to follow video tutorial.  
+My reactions to the iOS app development platform so far is that it was so easy to use.  I enjoyed working on the app & appreciate the easy to follow video tutorial.  This is my first iOS application.
 
 Outlets - adds a connection from the UI file to a label in the code.  This enables code to send a message to the UI object.
 
