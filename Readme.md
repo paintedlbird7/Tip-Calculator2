@@ -1,5 +1,4 @@
 
-Tip-Calculator2/TipCalculator2.gif
 
 Tip Calculator
 # Pre-work - *Tip Calculator iOS app*
