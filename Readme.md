@@ -1,4 +1,4 @@
-
+<a href="http://imgur.com/FOp1C10"><img src="http://i.imgur.com/FOp1C10.gif" title="source: imgur.com" /></a>
 
 Tip Calculator
 # Pre-work - *Tip Calculator iOS app*
