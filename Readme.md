@@ -1,4 +1,4 @@
-alculator
+Calculator
 # Pre-work - *Tip Calculator iOS app*
 
 ***Tip Calculator or Calculadora de propinas* is a tip calculator application for iOS.
@@ -74,6 +74,3 @@ Understanding what a closure may help to prevent memory leaks on your iOS app by
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-:wq
-:wq
-
