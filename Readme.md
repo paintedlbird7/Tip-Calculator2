@@ -1,4 +1,4 @@
-Calculator
+Tip Calculator
 # Pre-work - *Tip Calculator iOS app*
 
 ***Tip Calculator or Calculadora de propinas* is a tip calculator application for iOS.
