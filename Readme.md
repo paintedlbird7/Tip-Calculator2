@@ -1,5 +1,8 @@
-alculator
+Calculator
 # Pre-work - *Tip Calculator iOS app*
+
+
+<a href="https://imgur.com/FOp1C10"><img src="https://i.imgur.com/FOp1C10.gif" title="source: imgur.com" /></a>
 
 ***Tip Calculator or Calculadora de propinas* is a tip calculator application for iOS.
 
