@@ -1,6 +1,9 @@
 Calculator
 # Pre-work - *Tip Calculator iOS app*
 
+iOS mobile app using Swift & Xcode 📲🔢
+
+
 
 <a href="https://imgur.com/FOp1C10"><img src="https://i.imgur.com/FOp1C10.gif" title="source: imgur.com" /></a>
 
